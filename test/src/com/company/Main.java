@@ -6,13 +6,5 @@ public class Main {
 
 	System.out.println("branch_2");
 	    
-
-	System.out.println("test 1 the git");
-	   
-
-	
-	   
-
-
-    }
+   }
 }
