@@ -8,7 +8,7 @@ public class Main {
 	    
 
 	System.out.println("test 1 the git");
-	    System.out.println("test fir the git");
+	   
 
 	
 	   
